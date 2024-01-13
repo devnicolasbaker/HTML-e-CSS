@@ -1,0 +1,20 @@
+@charset "UFT-8";
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    /*Medidas absolutas:
+    cm, mm, in, px, ponto(pt), paica(pc);
+
+    Medidas Relativas:
+    em - relativa ao tamanho atual da fonte - referente o M
+    ex - relativa ao tamanho da fonte X minúsculo
+    rem -
+    vw - view width - % da largura da tela do usuario
+    vh - view height - % da altura da tela
+
+    o W3C recomenda o uso do PX e do EM
+    */
+    font-size: 16px;
+
+}
+
